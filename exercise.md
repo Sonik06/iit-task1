@@ -3,7 +3,7 @@
 > CAUTION: This is AI-generated overview on the given topic.
 
 > **TL;DR**: AI won’t replace _all_ jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on **how** we adopt AI, how quickly we **reskill**, and which **policies** we put in place.
-
+<br/>
 
 ## 1) The wrong question: jobs vs. tasks
 
@@ -22,7 +22,7 @@ A good rule of thumb:
 | Skills decay without practice. | Continuous learning + AI tools becomes part of the job. |
 
 > **Key idea: Tasks** are automated; **jobs** are redesigned.
-
+<br/>
 
 ## 2) What the best recent evidence says
 
@@ -40,7 +40,7 @@ A good rule of thumb:
 - **McKinsey** modeling suggests **~27–30% of hours** in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of **occupational transitions** and a major **skills upgrade** agenda.[^mgi2024]
 
 > **Takeaway**: In the near term, AI looks more like a **broad productivity booster** and **task reshuffler** than a universal job destroyer. Over time, transitions could be large—and uneven.
-
+<br/>
 
 ## 3) Who’s at risk, who benefits?
 
@@ -55,7 +55,7 @@ A good rule of thumb:
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
 
 **Early career boost**: The contact‑center study and lab experiments show AI can **encode and spread best practices**, letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure**—but may also **compress career ladders** unless organizations redesign roles.
-
+<br/><br/>
 
 ## 4) What actually changes inside a job?
 
@@ -65,7 +65,7 @@ A good rule of thumb:
 4. **Metrics** change: throughput and cycle time improve; _judgement errors_ (hallucinations, misclassifications) become the new bottlenecks to manage.
 
 > **Design principle for teams**: _Automate the boring, amplify the human_.
-
+<br/>
 
 ## 5) What should you (a first‑year IT student) do?
 
@@ -82,7 +82,7 @@ A simple checklist for any AI‑assisted task:
 - [ ] **Verify**: test, cite sources, run sanity checks.  
 - [ ] Document what the tool did vs. what **you** did.  
 - [ ] Commit in small steps with clear messages.
-
+<br/>
 
 ## 6) Policy and management levers (why this matters for outcomes)
 
@@ -92,12 +92,12 @@ A simple checklist for any AI‑assisted task:
 - **Safety nets**: transition support where displacement is concentrated.  
 
 > **Reality check**: AI’s _net_ effects depend on **choices**—of firms (deployment), governments (policy), and individuals (skills).
-
+<br/>
 
 ## 7) So… will AI take our jobs?
 
 AI **will take parts of many jobs** and **create parts of new jobs**. Some roles will shrink; others will grow; almost all will **change**. If you learn to **use** the tools, **validate** their output, and **ship** work that combines AI scale with human judgement, you’re positioning yourself on the opportunity side of that change.
-
+<br/><br/>
 
 ## References & further reading
 
@@ -108,7 +108,7 @@ AI **will take parts of many jobs** and **create parts of new jobs**. Some roles
 - **McKinsey Global Institute (2024) – A New Future of Work** (27–30% of hours automated; transitions): https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond  
 - **NBER Working Paper (2023) – _Generative AI at Work_** (contact‑center field study; +14% productivity): https://www.nber.org/system/files/working_papers/w31161/w31161.pdf  
 - **MIT Working Paper (2023) – _Experimental Evidence on the Productivity Effects of Generative AI_** (writing tasks; −37% time, +0.4 SD quality): https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf
-
+<br/>
 
 ### Endnotes (inline citations)
 
