@@ -2,13 +2,13 @@ Will AI Take Our Jobs?
 
 CAUTION: This is AI-generated overview on the given topic.
 
-**TL;DR**: AI won’t replace all jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on **how** we adopt AI, how quickly we **reskill**, and which **policies** we put in place.
+**TL;DR**: AI won’t replace _all_ jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on **how** we adopt AI, how quickly we **reskill**, and which **policies** we put in place.
 
 ---
 
 1) The wrong question: jobs vs. tasks
 
-When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity**, and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
+When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity**, and **demand**. That’s why economists talk about _task-level_ automation rather than job-level extinction.
 
 - **Automation**: AI directly performs parts of the work (e.g., summarizing emails, drafting text, classifying support tickets).  
 - **Augmentation**: AI helps humans do the work faster or better (e.g., code suggestions, data cleaning assistants).  
@@ -35,7 +35,7 @@ A good rule of thumb:
 **Medium‑term labor‑market exposure (macro evidence)**.  
 - The **IMF** estimates about **40% of global employment** is exposed to AI (higher in advanced economies), with mixed effects: some jobs will be complemented (higher productivity, possibly higher wages), others displaced.[^imfblog]  
 - An **ILO** global analysis (using ISCO data + GPT‑4 task mapping) suggests most occupations are **more exposed to augmentation than full automation**; clerical work shows the highest automation exposure.[^ilo]  
-- The **OECD Employment Outlook** finds early deployments more often **change job quality and tasks** than reduce employment outright—so far. Effects on job quantity may lag adoption.[^oecd]
+- The **OECD Employment Outlook** finds early deployments more often **change job quality and tasks** than reduce employment outright—_so far_. Effects on job quantity may lag adoption.[^oecd]
 
 **Forecasts (always uncertain)**.  
 - The **WEF Future of Jobs 2025** projects **~170 million jobs created** and **~92 million displaced** globally by 2030 (a **net +78 million**), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
@@ -66,9 +66,9 @@ A good rule of thumb:
 1. **Time allocation** shifts: less rough‑drafting, more reviewing, prompting, verifying.  
 2. **Quality bars** rise: if AI drafts “good enough”, human value moves to **problem framing, data/context curation, taste**, and **verification**.  
 3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
-4. **Metrics** change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
+4. **Metrics** change: throughput and cycle time improve; _judgement errors_ (hallucinations, misclassifications) become the new bottlenecks to manage.
 
-**Design principle for teams**: Automate the boring, amplify the human.
+**Design principle for teams**: _Automate the boring, amplify the human_.
 
 ---
 
@@ -121,8 +121,8 @@ References & further reading
 
 #Endnotes (inline citations)
 
-[^nber]: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
-[^noyzhang]: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
-[^imfblog]: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
-[^ilo]: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
+[^nber]: Brynjolfsson, E. et al. (2023). _Generative AI at Work_. NBER Working Paper w31161.  
+[^noyzhang]: Noy, S. & Zhang, W. (2023). _Experimental Evidence on the Productivity Effects of Generative AI_. MIT Working Paper.  
+[^imfblog]: Georgieva, K. (2024). _AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity_. IMF Blog.  
+[^ilo]: ILO (2023). _Generative AI and Jobs: A global analysis of potential effects on job quantity and quality_.  
 [^oecd]: OECD (2023). Employment Outlook: Artificial
